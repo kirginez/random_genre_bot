@@ -1,5 +1,3 @@
-import json
-import config
 import mysql.connector
 
 def get_random_genre(user):
